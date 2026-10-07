@@ -1,0 +1,8 @@
+# Abaikan file konfigurasi database lokal biar kredensial/password tidak bocor
+config/db.php
+
+# Abaikan file temporary OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
